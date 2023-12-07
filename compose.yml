@@ -1,0 +1,11 @@
+services:
+  mysql:
+    build:
+      ./mysql-database
+    ports:
+      - 3306:3306
+  user:
+    build:
+      ./stampmarket-user
+    ports:
+      - 9001:9001
