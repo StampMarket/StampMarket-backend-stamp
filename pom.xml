@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>stampmarket-user</module>
+         <module>stampmarket-stamp</module>
     </modules>
 
     <properties>
