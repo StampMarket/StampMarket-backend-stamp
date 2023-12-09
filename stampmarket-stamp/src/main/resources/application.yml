@@ -5,7 +5,7 @@ spring:
     name: stampmarket-stamp
 
   datasource:
-    url: jdbc:mysql://localhost:3306/stamporder?characterEncoding=UTF8&useSSL=false
+    url: jdbc:mysql://localhost:3306/valued_ones?characterEncoding=UTF8&useSSL=false
     driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: root
